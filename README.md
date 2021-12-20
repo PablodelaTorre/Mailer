@@ -1,0 +1,2 @@
+Aplicacion que permite mandar mails con asunto y contenido, además de almacenar dichos mails en una base de datos.
+La aplicación tiene también un buscador que permite identificar palabras dentro de los contenidos de los mails y mostrar dichos mails como resultado, descartando aquellos mails que no cumplen con los contenidos buscados.
